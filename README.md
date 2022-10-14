@@ -1,6 +1,6 @@
 # Assignment_7_K-DBSCAN_Clustering_crime_data
 
-Perform Clustering(Hierarchical, Kmeans & DBSCAN) for the crime data and identify the number of clusters formed and draw inferences.
+Perform Clustering for the crime data and identify the number of clusters formed and draw inferences.
 
 Data Description:
 Murder -- Muder rates in different places of United States
