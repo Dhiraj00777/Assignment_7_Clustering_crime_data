@@ -1,4 +1,4 @@
-# Assignment_7_K-DBSCAN_Clustering_crime_data
+# Assignment_7_Clustering_crime_data
 
 Perform Clustering for the crime data and identify the number of clusters formed and draw inferences.
 
